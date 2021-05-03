@@ -1,0 +1,8 @@
+{
+  "name": "aws-gateway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:RGilliss/aws-gateway.git",
+  "author": "Rye Gilliss <gilliss.rg@gmail.com>",
+  "license": "MIT"
+}
